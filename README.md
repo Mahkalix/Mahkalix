@@ -1,5 +1,6 @@
 
-<br />
+<p align="right"> <a href="https://www.linkedin.com/in/maxencebadin-l%C3%A9ger380000/" target="_blank"> <img align="center" src="https://www.edigitalagency.com.au/wp-content/uploads/new-linkedin-logo-white-black-png-600x600.png" alt="Mahkalix" width="50" height="50" </a>
+
 <h1 align="center">Hi 👋, I'm Maxence Badin Léger</h1>
 <h3 align="center"> Web Integrator's Student 💻</h3>
 <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/umYMU8G2ixG5mJBDo5/giphy.gif">
@@ -7,7 +8,6 @@
 <h3 align="left">About me: </h3>
 - 👩‍💻 I’m currently working on **Projet Entretien** </br>
 - 📈 I’m currently learning **Sass and React** </br>
-- 💬 Ask me about anything <a href="mailto: maxencelger@gmail.com" target="_blank"> here! </a>
 
 
 <h3 align="left">Languages and Tools:</h3>          
@@ -18,5 +18,3 @@
 <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"> <img src="https://sass-lang.com/assets/img/logos/logo-b6e1ef6e.svg" alt="Sass" width="40" height="40"/> </a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
 </p>
-</br></br>
-<p align="bottom-right"> <a href="https://www.linkedin.com/in/maxencebadin-l%C3%A9ger380000/" target="_blank"> <img align="center" src="https://www.edigitalagency.com.au/wp-content/uploads/new-linkedin-logo-white-black-png-600x600.png" alt="Mahkalix" width="30" height="30" </a>
