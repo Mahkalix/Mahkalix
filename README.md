@@ -9,7 +9,7 @@ maxencelger@gmail.com
 
 <h3 align="left">Connect with me:</h3> 
 <p align="left"> <a href="https://www.linkedin.com/in/maxencebadin-l%C3%A9ger380000/" target="_blank"> <img align="center" src="https://www.edigitalagency.com.au/wp-content/uploads/new-linkedin-logo-white-black-png-600x600.png" alt="Mahkalix" width="40" height="40" </a>
- <a href="maxencelger@gmail.com" target="_blank"> <img align="center" src="https://logodownload.org/wp-content/uploads/2018/03/gmail-logo-2-1.png" alt="Mail" width="40" height="30" </a>
+   <a  onClick="javascript:window.open('mailto:maxencelger@gmail.com', 'my-window');event.preventDefault()" href="mailto: maxencelger@gmail.com" target="_blank"> <img align="center" src="https://logodownload.org/wp-content/uploads/2018/03/gmail-logo-2-1.png" alt="Mail" width="40" height="30" </a>
 
 <h3 align="left">Languages and Tools:</h3>          
 <p align="left"> 
