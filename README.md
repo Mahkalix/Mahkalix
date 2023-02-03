@@ -7,7 +7,7 @@
 
 <h3 align="left">About me: </h3>
 - 👩‍💻 I’m currently working on **Projet Entretien** </br>
-- 📈 I’m currently learning **Sass and React** </br>
+- 📈 I’m currently learning **Sass** </br>
 
 
 <h3 align="left">Languages and Tools:</h3>          
