@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi 👋, I'm Maxence Badin Léger</h1>
 <h3 align="center"> Web Integrator's Student 💻</h3>
-<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/umYMU8G2ixG5mJBDo5/giphy.gif">
+<img align="right" alt="Coding" width="300" src="me.png">
 
 <h3 align="left">About me: </h3>
 - 👩‍💻 I’m currently working on **Projet Entretien and Projet Maman** </br>
