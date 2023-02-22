@@ -6,7 +6,7 @@
 <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/umYMU8G2ixG5mJBDo5/giphy.gif">
 
 <h3 align="left">About me: </h3>
-- 👩‍💻 I’m currently working on **Projet Entretien and Projet Maman** </br>
+- 👩‍💻 I’m currently working on **Projet 3** </br>
 - 📈 I’m currently learning **Sass** </br>
 
 
