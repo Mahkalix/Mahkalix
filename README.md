@@ -6,8 +6,8 @@
 <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/umYMU8G2ixG5mJBDo5/giphy.gif">
 
 <h3 align="left">About me: </h3>
-- 👩‍💻 I’m currently working on Projet 4 </br>
-- 📈 I’m currently learning Sass </br>
+- 👩‍💻 I’m currently working on Projet 5 </br>
+- 📈 I’m currently learning Algo and JS</br>
 
 
 <h3 align="left">Languages and Tools:</h3>          
