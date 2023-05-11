@@ -1,5 +1,5 @@
 
-<p align="center"> <a href="https://www.linkedin.com/in/maxencebadin-l%C3%A9ger380000/" target="_blank"> <img align="center" src="https://www.pngmart.com/files/21/Linkedin-PNG-Photo.png" alt="Mahkalix" width="50" height="50" </a>
+<p align="center"> <a href="https://www.linkedin.com/in/maxencebadin-l%C3%A9ger/" target="_blank"> <img align="center" src="https://www.pngmart.com/files/21/Linkedin-PNG-Photo.png" alt="Mahkalix" width="50" height="50" </a>
   
 <h1 align="center">Hi 🫂, I'm Maxence</h1>
 <h3 align="center"> FRONT END STUDENT  💻</h3>
