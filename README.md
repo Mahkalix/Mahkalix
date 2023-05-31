@@ -3,7 +3,7 @@
   
 <h1 align="center">Hi 🫂, I'm Maxence</h1>
 <h3 align="center"> FRONT END STUDENT  💻</h3>
-<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif">
+<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
   
 <h3 align="left">About me: </h3>
 - 👩‍💻 I’m currently working on Projet_8</br>
