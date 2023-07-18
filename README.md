@@ -8,7 +8,7 @@
 
 <h3 align="center">About me: </h3>
    <p align="center">
-- 👩‍💻 I’m currently working on Projet_10 "OpenClassrooms"</br>
+- 👩‍💻 I’m currently working on 10th OC Projet </br>
 - 📈 I’m currently learning React</br>
 - 📫 How to reach me: maxencelger@gmail.com
 </p>
