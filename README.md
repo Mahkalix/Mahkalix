@@ -10,7 +10,7 @@
    <p align="center">
 - 👩‍💻 I’m currently working on <a href="https://github.com/Mahkalix/77-events" target="_blank" rel="noreferrer"> 77-events <a/> </br>
 - 📈 I’m currently learning React</br>
-- 📫 How to reach me: <a href="mailto:maxencelger@gmail.com" target="_blank" rel="noreferrer"> maxencelger@gmail.com </a>
+- 📫 How to reach me: <a href="mailto:maxencelger@gmail.com"> maxencelger@gmail.com </a>
 </p>
 
 
