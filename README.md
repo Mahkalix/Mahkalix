@@ -13,8 +13,6 @@
 - 📫 How to reach me: <a href="mailto:maxencelger@gmail.com"> maxencelger@gmail.com </a>
 </p>
 
-https://bio.site/mahkalix
-
 <h3 align="center">Languages and Tools:</h3>       
 <p align="center">
 <img align="center" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
