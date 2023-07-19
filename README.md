@@ -24,5 +24,5 @@ https://bio.site/mahkalix
 <img align="center" alt="SaSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
 <img align="center" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="center"  alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="center"  alt="Bio sites" width="30px" style="padding-right:10px;" src="https://github.com/Mahkalix/Mahkalix/assets/97346049/ca5f3066-bc48-4245-9e22-c23885ad212f"/>
+<a href="https://bio.site/mahkalix" target="_blank" rel="noreferrer"> <img src="http://www.theatre-ouvert.com/wp-content/uploads/2020/02/Onda_logo_noir45mm-1-pdf.jpg" align="center"  alt="Bio sites" width="30px" style="padding-right:10px;"/> </a>
 </p>
