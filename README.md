@@ -8,7 +8,7 @@
 
 <h3 align="center">About me: </h3>
    <p align="center">
-- 👩‍💻 I’m currently working on <a href="https://github.com/Mahkalix/77-events" target="_blank" rel="noreferrer"> 10th OC Projet <a/> </br>
+- 👩‍💻 I’m currently working on <a href="https://github.com/Mahkalix/77-events" target="_blank" rel="noreferrer"> 77-events <a/> </br>
 - 📈 I’m currently learning React</br>
 - 📫 How to reach me: maxencelger@gmail.com
 </p>
