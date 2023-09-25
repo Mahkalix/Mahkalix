@@ -8,7 +8,7 @@
 
 <h3 align="center">About me: </h3>
    <p align="center">
-- 👩‍💻 I’m currently working on <a href="https://github.com/Mahkalix/77-events" target="_blank" rel="noreferrer"> Argent Bank<a/> </br>
+- 👩‍💻 I’m currently working on <a href="https://github.com/Mahkalix/ArgentBank" target="_blank" rel="noreferrer"> Argent Bank<a/> </br>
 - 📈 I’m currently learning React</br>
 - 📫 How to reach me: <a href="mailto:maxencelger@gmail.com"> maxencelger@gmail.com </a>
 </p>
