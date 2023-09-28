@@ -2,7 +2,7 @@
 <p align="center"> <a href="https://www.linkedin.com/in/maxencebadin-l%C3%A9ger/" target="_blank"> <img align="center" src="https://www.pngmart.com/files/21/Linkedin-PNG-Photo.png" alt="Mahkalix" width="50" height="50" </a> </p>
   
 <h1 align="center">Hi 🫂, I'm Maxence</h1>
-<h3 align="center"> Front-End Developer / Web Integrator's student  💻</h3>
+<h3 align="center"> Front-End Developer / Web Integrator's student 💻</h3>
     <p align="center">  <img align="center" alt="Coding" width="300" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif"> </p>
 
 
