@@ -2,7 +2,7 @@
 
   
 <h1 align="center">Hi 🫂, I'm Maxence</h1>
-<h3 align="center"> Front-End Developer / Web Integrator 💻</h3>
+<h3 align="center"> Student Developer 💻</h3>
     <p align="center">  <img align="center" alt="Coding" width="300" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif"> </p>
 
 <h3 align="center">About me: </h3>
