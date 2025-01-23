@@ -8,7 +8,6 @@
 <h3 align="center">About me: </h3>
    <p align="center">
 - 🌱 I’m currently learning</br>
-- 👨‍💻 Some of my projects are available at <a href="https://maxencebadin-leger.netlify.app/" target="_blank"> Portfolio </a> </br>
 - 📫 How to reach me: <a href="mailto:maxencelger@gmail.com"> maxencelger@gmail.com </a></br>
  </p>
 <h3 align="center">Connect with me:</h3>
