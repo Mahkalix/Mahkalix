@@ -1,22 +1,53 @@
+<div align="center">
 
+### Hi there! I'm Maxence 🕷️
 
-  
-<h1 align="center">Hi 🫂, I'm Maxence</h1>
-<h3 align="center"> Student Developer 💻</h3>
-    <p align="center">  <img align="center" alt="Coding" width="300" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif"> </p>
-
-<h3 align="center">About me: </h3>
-   <p align="center">
-- 🌱 I’m currently learning</br>
-- 📫 How to reach me: <a href="mailto:maxencelger@gmail.com"> maxencelger@gmail.com </a></br>
- </p>
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://discord.gg/https://discord.gg/9kEsDNGs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/9kEsDNGs" height="50" width="50" /></a>
-  <a href="https://www.linkedin.com/in/maxencebadin-l%C3%A9ger/" target="_blank"> <img align="center" src="https://www.pngmart.com/files/21/Linkedin-PNG-Photo.png" alt="Mahkalix" width="40" height="40" </a>
+<p>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDRzaHY1NzI2enppNWl5cTd1Y2VpN2VhZ241djdqdjFhdTV3bmliZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8zYunr3Hg8XPq/giphy.gif" alt="Coding GIF" width="500"/>
 </p>
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
+---
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahkalix&show_icons=true&locale=en&layout=compact" alt="mahkalix" /></p>
+### 👨‍💻 About Me:
+<p>
+✨ Passionate <b>Front-end Developer & Designer</b><br>
+🎓 Currently in my third year of <b>BUT MMI (Multimedia & Internet Technologies)</b><br>
+💼 Working as an <b>Alternante at Orange Business - Eolas</b><br>
+💪 Focused on <b>accessibility, clean code & modern web development</b><br>
+</p>
+
+---
+
+### 📫 How to reach me:
+<p>
+  <a href="mailto:maxencelger@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/maxencebadin-l%C3%A9ger/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://discord.gg/9kEsDNGs" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
+</p>
+
+---
+
+### 🛠️ Technologies & Tools:
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="SASS" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
+</p>
+
+---
+
+### 📊 GitHub Stats:
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mahkalix&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages"/>
+</p>
+
+---
+
+Feel free to reach out and collaborate! 🚀
+
+</div>
