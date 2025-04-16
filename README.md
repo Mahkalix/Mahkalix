@@ -10,7 +10,7 @@
 
 ### 👨‍💻 About Me:
 <p>
-✨ Passionate <b>Front-end Developer & Designer</b><br>
+✨ Passionate <b>Front-end Developer </b><br>
 🎓 Currently in my third year of <b>BUT MMI (Multimedia & Internet Technologies)</b><br>
 💼 Working as an <b>Alternante at Orange Business - Eolas</b><br>
 💪 Focused on <b>accessibility, clean code & modern web development</b><br>
