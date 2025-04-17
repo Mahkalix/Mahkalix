@@ -1,6 +1,6 @@
 <div align="center">
 
-### Hi there! I'm Maxence 🕷️
+### Hi there! I'm Maxence
 
 <p>
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDRzaHY1NzI2enppNWl5cTd1Y2VpN2VhZ241djdqdjFhdTV3bmliZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8zYunr3Hg8XPq/giphy.gif" alt="Coding GIF" width="500"/>
