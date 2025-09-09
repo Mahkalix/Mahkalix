@@ -11,8 +11,8 @@
 ### 👨‍💻 About Me:
 <p>
 ✨ Passionate <b>Front-end Developer </b><br>
-🎓 Currently in my third year of <b>BUT MMI (Multimedia & Internet Technologies)</b><br>
-💼 Working as an <b>Alternante at Orange Business - Eolas</b><br>
+🎓 Currently in my first year of <b>Master’s Degree in Full-Stack Development at MyDigitalSchool</b><br>
+💼 Working as an <b>Apprentice at Orange Business - Eolas</b><br>
 💪 Focused on <b>accessibility, clean code & modern web development</b><br>
 </p>
 
