@@ -3,7 +3,7 @@
 ### Hi there! I'm Maxence
 
 <p>
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDRzaHY1NzI2enppNWl5cTd1Y2VpN2VhZ241djdqdjFhdTV3bmliZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8zYunr3Hg8XPq/giphy.gif" alt="Coding GIF" width="500"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYm5hNDZrc3ZqM2Y1Y2JldGJ4djd5M3YweG94dHJxdTB4dDV5b3JhdSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/0aIY8ZCncOtgh35ftC/giphy.gif" alt="Coding GIF" width="500"/>
 </p>
 
 ---
