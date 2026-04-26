@@ -12,7 +12,7 @@
 <p>
 ✨ Passionate <b>Front-end Developer </b><br>
 🎓 Currently in my first year of <b>Master’s Degree in Full-Stack Development at MyDigitalSchool</b><br>
-💼 Working as an <b>Apprentice at Orange Business - Eolas</b><br>
+💼 Working as an <b>Apprentice at Orange Business - La Fabrique</b><br>
 💪 Focused on <b>accessibility, clean code & modern web development</b><br>
 </p>
 
