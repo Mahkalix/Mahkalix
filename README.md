@@ -5,8 +5,6 @@
   alt="Animated developer profile introduction"
 />
 
-<br><br>
-
 [![Email](https://img.shields.io/badge/EMAIL-B11313?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maxencelger@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-B11313?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maxencebadin-l%C3%A9ger/)
 [![Discord](https://img.shields.io/badge/DISCORD-B11313?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/9kEsDNGs)
