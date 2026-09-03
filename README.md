@@ -5,25 +5,26 @@
   alt="Animated developer profile introduction"
 />
 
-<a href="mailto:maxencelger@gmail.com"><kbd>✉ EMAIL</kbd></a>
-&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/maxencebadin-l%C3%A9ger/"><kbd>◉ LINKEDIN</kbd></a>
-&nbsp;&nbsp;
-<a href="https://discord.gg/9kEsDNGs"><kbd>◈ DISCORD</kbd></a>
+<br><br>
+
+[![Email](https://img.shields.io/badge/EMAIL-B11313?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maxencelger@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-B11313?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maxencebadin-l%C3%A9ger/)
+[![Discord](https://img.shields.io/badge/DISCORD-B11313?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/9kEsDNGs)
 
 </div>
 
-```text
-╭──────────────────────────────────────────────────────╮
-│ SUBJECT IDENTIFIED                                   │
-├──────────────────────────────────────────────────────┤
-│                                                      │
-│ NAME          Maxence Badin-Léger                    │
-│ ROLE          Full-Stack Developer                   │
-│ SPECIALITY    Front-End & Accessibility              │
-│ LOCATION      Grenoble, France                       │
-│ COMPANY       Orange Business / La Fabrique          │
-│ EDUCATION     MyDigitalSchool                        │
-│ STATUS        Building the next version              │
-│                                                      │
-╰──────────────────────────────────────────────────────╯
+```bash
+maxence@spider-verse:~$ whoami
+
+NAME        Maxence Badin-Léger
+ROLE        Full-Stack Developer
+SPECIALITY  Front-End & Accessibility
+LOCATION    Grenoble, France
+COMPANY     Orange Business / La Fabrique
+EDUCATION   MyDigitalSchool
+
+maxence@spider-verse:~$ spider-sense --status
+ONLINE
+
+maxence@spider-verse:~$ _
+```
